@@ -4,7 +4,7 @@
 This repository contains the training code for the door frame example in the paper "A scalable surrogate modeling method based on Physics-
 Informed graph neural network for structural dynamics." The required environment and dataset can be downloaded from Google Drive.
 <p align="center">
-  <img src="https://github.com/Li-Yongcheng/StructGraph-Dyna/blob/main/FEM-PINN.png" />
+  <img src="https://github.com/Li-Yongcheng/StructGraph-Dyna/blob/main/StructGraph-Dyna.png" />
 </p>
 
 ## Have a try!
